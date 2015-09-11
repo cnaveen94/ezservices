@@ -1,2 +1,2 @@
 # ezservices
-services for all ezapps
+services for all ezapps test
