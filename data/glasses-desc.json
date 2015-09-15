@@ -1,0 +1,210 @@
+[
+  {
+    "glass_id":1,
+    "glass_name":"Beer Mug",
+    "new_glass_name":"",
+    "glass_image_name":"beer-mug",
+    "glass_image_type":"png",
+    "description":"Usually made of thick glass, quite heavy, with a large handle, it's the traditional beer container. "
+  },
+  {
+    "glass_id":2,
+    "glass_name":"Cocktail glass",
+    "new_glass_name":"Martini cocktail glass",
+    "glass_image_name":"cocktail-glass",
+    "glass_image_type":"png",
+    "description":"The cocktail glass is also commonly called a martini glass. Designs range from thin and delicate to colorful and crazy, and the correct cocktail glass will do wonders for the presentation of your drink.\n\nTypically holds 6 ounces\nUse a regular or straight stem glass for martinis and classic drinks.\nZ-stems or other fancy designs go well with colorful drinks!"
+  },
+  {
+    "glass_id":3,
+    "glass_name":"Coffee Mug",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"A thick mug with a handle, designed for holding hot beverages. Not considered a bar glass, but we certainly won't tell anyone if you mix up a toasty treat in your favourite caffeine implentation solution (our marketing department told us to say that)."
+  },
+  {
+    "glass_id":4,
+    "glass_name":"Collins glass",
+    "new_glass_name":"",
+    "glass_image_name":"collins-glass",
+    "glass_image_type":"png",
+    "description":"A collins glass is a glass tumbler which typically will contain 300 to 410 millilitres (11 to 14 imp fl oz; 10 to 14 US fl oz). It is used to serve mixed drinks, especially Tom Collins cocktails. It is cylindrical in shape and narrower than a highball glass.\n\nTypically holds 12-16 ounces."
+  },
+  {
+    "glass_id":5,
+    "glass_name":"Cordial glass",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"Cordial glasses small, stemmed glasses generally used to serve after-dinner liqueurs. Alternatively, they may be used to serve drinks at a party, reception or other gathering. The use of fine cordial glasses lends a touch of elegance to any gathering.\n\nCordial glasses are smaller than a typical wine glass, holding approximately one and a half ounces (� 45 ml) and are often (though certainly not always) made with thinner, more delicate glass.\nMakes a good presentation glass for layered drinks\""
+  },
+  {
+    "glass_id":6,
+    "glass_name":"Coupe",
+    "new_glass_name":"Champagne stemware",
+    "glass_image_name":"coupe",
+    "glass_image_type":"png",
+    "description":"The champagne flute (French: flute � champagne) is a stem glass with a tall, narrow bowl, generally holding about 6 to 10 US fl oz (180 to 300 ml) of liquid. The bowl of a flute may resemble either a narrow wine glass, a trumpet shape or be very narrow and straight-sided.\n\nAs with other stemware, the stem allows the drinker to hold the glass without affecting the temperature of the drink. The bowl is designed to retain champagne's signature carbonation, by reducing the surface area at the opening of the bowl. The flute has largely replaced the champagne coupe or saucer, the shape of which allowed carbonation to dissipate even more rapidly than from a standard wine glass. Its smaller diameter also allows more flutes to be carried on a tray."
+  },
+  {
+    "glass_id":7,
+    "glass_name":"Coupette",
+    "new_glass_name":"",
+    "glass_image_name":"coupette",
+    "glass_image_type":"png",
+    "description":"Also called a margarita glass, the coupette is a wide-topped glass with a broad rim for salting. Generally flatter and less curved than a coupe glass. A common style features a fluted stem which abruptly gives way to the wide top.\n\nWide rim makes salting and garnishing very easy\nGreat for frozen drinks and tropical drinks"
+  },
+  {
+    "glass_id":8,
+    "glass_name":"Double Old Fashioned glass",
+    "new_glass_name":"",
+    "glass_image_name":"double-old-fashioned-glass",
+    "glass_image_type":"png",
+    "description":"The Old Fashioned glass, lowball glass, or rocks glass is a short tumbler used for serving an alcoholic beverage, such as whisky, with ice cubes (�on the rocks�). It is also normally used to serve certain cocktails, such as the Old Fashioned, from which it receives its name.\n\nOld Fashioned glasses typically have a wide brim and a thick base (or tunc), so that the non-liquid ingredients of a cocktail can be mashed using a muddler before the main liquid ingredients are added.\n\nOld Fashioned glasses usually contain 6_10 US fl oz (180_300 ml). A double Old Fashioned glass (sometimes referred to by retailers as a DOF glass) contains 12_16 US fl oz (350_470 ml)."
+  },
+  {
+    "glass_id":9,
+    "glass_name":"Flute glass",
+    "new_glass_name":"Champagne flute",
+    "glass_image_name":"flute-glass",
+    "glass_image_type":"png",
+    "description":"The champagne flute (French: flute � champagne) is a stem glass with a tall, narrow bowl, generally holding about 6 to 10 US fl oz (180 to 300 ml) of liquid. The bowl of a flute may resemble either a narrow wine glass, a trumpet shape or be very narrow and straight-sided.\n\nAs with other stemware, the stem allows the drinker to hold the glass without affecting the temperature of the drink. The bowl is designed to retain champagne's signature carbonation, by reducing the surface area at the opening of the bowl. The flute has largely replaced the champagne coupe or saucer, the shape of which allowed carbonation to dissipate even more rapidly than from a standard wine glass. Its smaller diameter also allows more flutes to be carried on a tray."
+  },
+  {
+    "glass_id":10,
+    "glass_name":"Highball glass",
+    "new_glass_name":"",
+    "glass_image_name":"highball-glass",
+    "glass_image_type":"png",
+    "description":"A highball glass is a glass tumbler that can contain 240 to 350 millilitres (8.4 to 12.3 imp fl oz; 8.1 to 11.8 US fl oz). It is used to serve highball cocktails and other mixed drinks.\nA highball glass is taller than an Old Fashioned glass, and shorter and wider than a Collins glass.\n\nGreat for highballs coolers, spritzers, any simple mixed drinks."
+  },
+  {
+    "glass_id":11,
+    "glass_name":"Hurricane glass",
+    "new_glass_name":"",
+    "glass_image_name":"hurricane-glass",
+    "glass_image_type":"png",
+    "description":"A Hurricane glass is a glass tumbler which typically will contain 20 fluid ounces (600 ml). It is used to serve mixed drinks, particularly the Hurricane from which it is named originating at Pat O'Brien's Bar in New Orleans. Other drinks served in this glass include the Singapore Sling, June bug, Pi�a colada and Blue Hawaii. It is shaped similarly to a vase or a hurricane lamp and is typically taller and wider than a highball glass.\n\nBest glass for tropical drinks, frozen or unfrozen"
+  },
+  {
+    "glass_id":12,
+    "glass_name":"Irish Coffee Mug",
+    "new_glass_name":"",
+    "glass_image_name":"irish-coffee-mug",
+    "glass_image_type":"png",
+    "description":"Irish coffee glasses make for great presentation of hot drinks. If you don't have any, a regular mug will usually do. Generally made with heavy glass to withstand high temperatures.\n\nHolds about 8 oz.\nGreat for hot chocolate drinks, with whipped cream toppings. Mmmm.\nEasy to rim with sugar or chocolate."
+  },
+  {
+    "glass_id":13,
+    "glass_name":"Mason Jar",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"These large square containers are effective in keeping their contents sealed in an air tight environment. \nThey're designed for home canning, being used for preserves and jam amongst other things.\nTypical Size: 16 oz."
+  },
+  {
+    "glass_id":14,
+    "glass_name":"Old Fashioned glass",
+    "new_glass_name":"",
+    "glass_image_name":"old-fashioned-glass",
+    "glass_image_type":"png",
+    "description":"The Old Fashioned glass, lowball glass, or rocks glass is a short tumbler used for serving an alcoholic beverage, such as whisky, with ice cubes (�on the rocks�). It is also normally used to serve certain cocktails, such as the Old Fashioned, from which it receives its name.\n\nOld Fashioned glasses typically have a wide brim and a thick base (or tunc), so that the non-liquid ingredients of a cocktail can be mashed using a muddler before the main liquid ingredients are added.\n\nOld Fashioned glasses usually contain 6_10 US fl oz (180_300 ml). A double Old Fashioned glass (sometimes referred to by retailers as a DOF glass) contains 12_16 US fl oz (350_470 ml)."
+  },
+  {
+    "glass_id":15,
+    "glass_name":"Parfait glass",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"This glass has a similar inwards curve to that of a hurricane glass, with a steeper outwards rim and larger, rounded bowl. Often used for drinks containing fruit or ice cream.\nTypical Size: 12 oz."
+  },
+  {
+    "glass_id":16,
+    "glass_name":"Pint glass",
+    "new_glass_name":"",
+    "glass_image_name":"pint-glass",
+    "glass_image_type":"png",
+    "description":"A pint glass is a form of drinkware made to hold either a British (\"imperial\") pint of 20 imperial fluid ounces (568 ml) or an American pint of 16 US fluid ounces (473 ml). These glasses are typically used to serve beer, and also often for cider."
+  },
+  {
+    "glass_id":17,
+    "glass_name":"Pitcher",
+    "new_glass_name":"",
+    "glass_image_name":"pitcher",
+    "glass_image_type":"png",
+    "description":"This larger container usually has a handle and a lip or spout for pouring the contents into several glasses. Available in glass or plastic. \nIdeal for margaritas and frozen drinks"
+  },
+  {
+    "glass_id":18,
+    "glass_name":"Pousse Cafe glass",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"A narrow glass essentially used for pousse cafes and other layered dessert drinks. It's shape increases the ease of layering ingredients.\nSize: 6-6 ounces"
+  },
+  {
+    "glass_id":19,
+    "glass_name":"Punch Bowl",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"A large demispherical bowl suitable for punches or large mixes.  Requires serving glasses, typically small cups.\nTypical Size: 1-5 gal."
+  },
+  {
+    "glass_id":20,
+    "glass_name":"Red Wine glass",
+    "new_glass_name":"",
+    "glass_image_name":"red-wine-glass",
+    "glass_image_type":"png",
+    "description":"A good red wine glass is generally large (20 ounces or more) with a rounded bowl shape, curving in towards the rim.\n\n\nUsed for wine  and large, light drinks"
+  },
+  {
+    "glass_id":21,
+    "glass_name":"Sherry glass",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"Small, narrow stemmed glasses with a wider rim than a cordial glass. These smaller versions of wine glasses are usually used for drinking fortified wine\n-Typical volume: 200ml / 7.0 Oz. \n\nIdeal for liqueurs and apertifs"
+  },
+  {
+    "glass_id":22,
+    "glass_name":"Shot glass",
+    "new_glass_name":"",
+    "glass_image_name":"shot-glass",
+    "glass_image_type":"png",
+    "description":"A shot glass is a small glass designed to hold or measure spirits or liquor, which is either drunk straight from the glass (\"a shot\") or poured into a cocktail. A \"shot\" of liquor is not the same as a \"shooter\".\nShot glasses decorated with a wide variety of toasts, advertisements and humorous pictures are popular souvenirs and collectibles.\n\nA \"shot\" is technically defined as 1.5 ounces.\nSmall shot glasses or \"pony\" shots are common, and hold 1 ounce.\nMany shot glasses can be larger, holding 2 or even 3 ounces. Elaborate shooters may often require a large shot glass."
+  },
+  {
+    "glass_id":23,
+    "glass_name":"Sleeve",
+    "new_glass_name":"pilsner glass",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"Also called a pilsner glass. Designed with a narrow base that broadens towards the top without curving to help showcase its contents and provide a nice head on beer. Sleeves are great for mixed drinks as well.\n\nHolds 10-12 ounces"
+  },
+  {
+    "glass_id":24,
+    "glass_name":"Snifter",
+    "new_glass_name":"",
+    "glass_image_name":"snifter",
+    "glass_image_type":"png",
+    "description":"A snifter (also called brandy snifter, cognac glass, or balloon) is a type of stemware, a short-stemmed glass whose vessel has a wide bottom and a relatively narrow top. It is mostly used to serve aged brown spirits such as bourbon, brandy, and whisky.\n\nThe large surface area of the contained liquid helps evaporate it, the narrow top traps the aroma inside the glass, while the rounded bottom allows the glass to be cupped in the hand, thus warming the liquor. Most snifters will hold between 180_240 ml (6_8 oz.), but are almost always filled to only a small part of their capacity. Most snifters are designed so that when placed sideways on a level surface, they will hold just the proper amount before spilling.[1]\n\nA variant is called a pipe glass or pipe snifter, used for port and brandy."
+  },
+  {
+    "glass_id":25,
+    "glass_name":"Sour glass",
+    "new_glass_name":"",
+    "glass_image_name":"sour-glass",
+    "glass_image_type":"png",
+    "description":"A small, stemmed glass, widest at the top. Resembles a small champagne glass. The preferred glass for aperitifs, ports, and sherry. The copita, with it's aroma enhancing narrow taper, is a type of sherry glass.\n\n-Typically holds 5-6 ounces"
+  },
+  {
+    "glass_id":26,
+    "glass_name":"White Wine glass",
+    "new_glass_name":"",
+    "glass_image_name":"unknown",
+    "glass_image_type":"png",
+    "description":"A wine glass is a type of glass stemware that is used to drink and taste wine. It is generally composed of three parts: the bowl, stem, and foot. Selection of a particular wine glass for a wine style is important, as the glass shape can influence its perception.A white wine glass is more elongated in the body than a red wine glass, and curves gently inwards near the rim. A long stem is used for holding so your hand doesn't warm the contents."
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "glass_name":"Cocktail glass",
+    "description":"The cocktail glass is also commonly called a martini glass. Designs range from thin and delicate to colorful and crazy, and the correct cocktail glass will do wonders for the presentation of your drink.\n\nTypically holds 6 ounces\nUse a regular or straight stem glass for martinis and classic drinks.\nZ-stems or other fancy designs go well with colorful drinks!",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Beer Mug",
+    "description":"A large mug made of thick glass, with a handle. It holds beer. You know. And stuff.\n\nGreat size for \"drop-shot\" drinks.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"White Wine glass",
+    "description":"A white wine glass is more elongated in the body than a red wine glass, and curves gently inwards near the rim. A long stem is used for holding so your hand doesn't warm the contents.\n\nGood for chilled mixed drinks\nAlso good for sparkling and bubbly drinks",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Sour glass",
+    "description":"A small, stemmed glass, widest at the top. Resembles a small champagne glass.\n\nAlso called a whiskey sour glass\nTypically holds 5-6 ounces",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Snifter",
+    "description":"Also called a brandy glass, or a brandy snifter. Snifters have a short stem and rounded glass to allow you to cradle the drink in the palm of your hand to warm the contents.\n\nUsed for brandy and cognac drinks.\nOften used for drinks which are to be set on fire.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Sleeve",
+    "description":"Also called a pilsner glass. Designed with a narrow base that broadens towards the top without curving to help showcase its contents and provide a nice head on beer. Sleeves are great for mixed drinks as well.\n\nHolds 10-12 ounces",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Shot glass",
+    "description":"Shot glasses (also called shooter glasses) are used for shooter style drinks.\n\nA \"shot\" is technically defined as 1.5 ounces.\nSmall shot glasses or \"pony\" shots are common, and hold 1 ounce.\nMany shot glasses can be larger, holding 2 or even 3 ounces. Elaborate shooters may often require a large shot glass.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Sherry glass",
+    "description":"Small, narrow stemmed glasses with a wider rim than a cordial glass.\n\nHolds 2 ounces.\nIdeal for liqueurs and apertifs",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Red Wine glass",
+    "description":"A good red wine glass is generally large (20 ounces or more) with a rounded bowl shape, curving in towards the rim.\n\nUsed for wine (duh), and large, light drinks",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Punch Bowl",
+    "description":"A large bowl used to mix significant quantities of alcohol and juice. Requires serving glasses, typically small cups.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Pousse Cafe glass",
+    "description":"A small cylindrical glass, with or without a stem, used for serving pousse-cafe (layered) drinks. The shape of the glass makes it easier to layer the ingredients.\n\nHolds 3-4 ounces\nExcellent for layered drinks and liqueurs",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Pitcher",
+    "description":"A big jug, suitable for mixing up a whole bunch of something all at once. Should have a lip for pouring into separate glasses for serving.\n\nIdeal for margaritas and frozen drinks\nA pitcher of sangria is a great summer party drink",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Pint glass",
+    "description":"A typical beer glass. Generally made of heavy glass to survive being bashed around in bars. Holds, well, a pint of liquid.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Parfait glass",
+    "description":"A wide-rimmed glass that comes in many guises, ranging from bowl-shaped to hurricane style. These glasses are generally reserved for ice cream or fruit drinks.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Old Fashioned glass",
+    "description":"Also called a \"rocks\" glass. A short glass, often square or perfectly round, it is used for many classic highballs. Also comes in double sizes for larger drinks.\n\nTypically holds 4 - 6 ounces.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Mason Jar",
+    "description":"We don't know who decided to put a handle on a mason jar and start drinking out of it, but we'll thank them anyway. Sort of a trashy-yet-classy kind of container, it really has nothing going for it other than, hey, you're drinking out of a jar.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Irish Coffee Mug",
+    "description":"Irish coffee glasses make for great presentation of hot drinks. If you don't have any, a regular mug will usually do. Generally made with heavy glass to withstand high temperatures.\n\nHolds about 8 oz.\nGreat for hot chocolate drinks, with whipped cream toppings. Mmmm.\nEasy to rim with sugar or chocolate.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Hurricane glass",
+    "description":"A large, wide glass, generally short-stemmed, with a distinctive reverse curve near the top where the rim broadens out.\n\nTypically holds 12 - 20 ounces\nBest glass for tropical drinks, frozen or unfrozen",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Highball glass",
+    "description":"The highball glass is very common for serving mixed drinks. Tall and thin, they generally provide the right size for a combination of ice, spirit and mix.\n\nHolds 8 to 10 oz.\nGreat for highballs, rickeys, coolers, spritzers, any simple mixed drinks.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Flute glass",
+    "description":"A tall, slender glass designed to preserve the carbonation of champagne.\n\nTypically holds 6 - 8 ounces.\nGreat for elegant or romantic drinks.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Double Old Fashioned glass",
+    "description":"It's a regular old-fashioned glass, but double! Also called a \"rocks\" glass, a double old-fashioned can be used for many basic highballs and small mixed drinks.\n\nTypically holds 6 to 8 ounces.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Coupette",
+    "description":"Also called a margarita glass, the coupette is a wide-topped glass with a broad rim for salting. Generally flatter and less curved than a coupe glass. A common style features a fluted stem which abruptly gives way to the wide top.\n\nWide rim makes salting and garnishing very easy\nGreat for frozen drinks and tropical drinks",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Coupe",
+    "description":"A saucer-shaped glass with a wide, broad rim. Originally invented for drinking champagne, the glass has evolved into more modern forms. Not to be confused with the coupette glass, which is flatter and shallower.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Cordial glass",
+    "description":"A small stemmed glass, generally used for apertifs and liqueurs.\n\nHolds 2 ounces\nMakes a good presentation glass for layered drinks",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Collins glass",
+    "description":"A tall, slender glass for larger recipes. Named after the classic Tom Collins, but now used in a wide variety of mixed drinks.\n\nTypically holds 12-16 ounces.",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Coffee Mug",
+    "description":"A thick mug with a handle, designed for holding hot beverages. Not considered a bar glass, but we certainly won't tell anyone if you mix up a toasty treat in your favourite caffeine implentation solution (our marketing department told us to say that).",
+    "FIELD3":""
+  },
+  {
+    "glass_name":"Beer Mug",
+    "description":"A large mug made of thick glass, with a handle. It holds beer. You know. And stuff.\n\nGreat size for \"drop-shot\" drinks.",
+    "FIELD3":""
+  }
+]
