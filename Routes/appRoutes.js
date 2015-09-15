@@ -15,19 +15,19 @@ var routes = function(Drink){
     appRouter.route('/new')
         .get(function(req,res){
             console.log("We are in appRouter new file")
-            var query = {};
-
-            if(req.query.genre)
-            {
-                query.genre = req.query.genre;
-            }
-            Drink.find(query, function(err,drinks){
-                if(err)
-                    res.status(500).send(err);
-                else
-                    res.json(drinks);
-            });
-            //res.sendfile('data/new.json');
+            //var query = {};
+            //
+            //if(req.query.genre)
+            //{
+            //    query.genre = req.query.genre;
+            //}
+            //Drink.find(query, function(err,drinks){
+            //    if(err)
+            //        res.status(500).send(err);
+            //    else
+            //        res.json(drinks);
+            //});
+            res.sendfile('data/new.json');
 
         });
 
