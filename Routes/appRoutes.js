@@ -51,7 +51,11 @@ var routes = function(Drink){
             console.log("We are in appRouter mixed file")
             res.sendfile('data/home.json');
         });
-
+    appRouter.route('/glasses')
+        .get(function(req,res){
+            console.log("We are in appRouter fecthing glasses")
+            res.sendfile('data/glasses-desc.json');
+        });
     return appRouter;
 };
 
