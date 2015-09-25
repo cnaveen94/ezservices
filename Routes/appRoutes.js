@@ -34,12 +34,12 @@ var routes = function(Drink){
     appRouter.route('/rated')
         .get(function(req,res){
             console.log("We are in appRouter rated file")
-            res.sendfile('data/rated.json');
+            res.sendfile('./data/rated.json');
         });
     appRouter.route('/popular')
         .get(function(req,res){
             console.log("We are in appRouter popular file")
-            res.sendfile('data/popular.json');
+            res.sendfile('./data/popular.json');
         });
     appRouter.route('/mixed')
         .get(function(req,res){
