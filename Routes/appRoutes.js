@@ -27,7 +27,7 @@ var routes = function(Drink){
             //    else
             //        res.json(drinks);
             //});
-            res.sendfile('data/new.json');
+            res.sendfile('./data/new.json');
 
         });
 
@@ -44,17 +44,17 @@ var routes = function(Drink){
     appRouter.route('/mixed')
         .get(function(req,res){
             console.log("We are in appRouter mixed file")
-            res.sendfile('data/mixed.json');
+            res.sendfile('./data/mixed.json');
         });
     appRouter.route('/home')
         .get(function(req,res){
             console.log("We are in appRouter mixed file")
-            res.sendfile('data/home.json');
+            res.sendfile('./data/home.json');
         });
     appRouter.route('/glasses')
         .get(function(req,res){
             console.log("We are in appRouter fecthing glasses")
-            res.sendfile('data/glasses-desc.json');
+            res.sendfile('./data/glasses-desc.json');
         });
     return appRouter;
 };
