@@ -80,7 +80,7 @@ var routes = function(Drink){
                 fs.writeFile(fileName, jsonString, function (err) {
                     if (err) {
                         return console.log(err);
-                        res.json({"error1" : true,"message" : "Problem updating. Please try again later"});
+                        res.json({"error" : true,"message" : "Problem updating. Please try again later"});
                     }
                 });
 
@@ -90,7 +90,7 @@ var routes = function(Drink){
                 //console.log(JSON.parse(jsonString));
             });
 
-            res.json({"error1" : false,"message" : "Updated Successfully"});
+            res.json({"error" : false,"message" : "Updated Successfully..."});
 
 
         });
