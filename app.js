@@ -1,9 +1,9 @@
 var express = require('express'),
-    mongoose = require('mongoose'),
+    //mongoose = require('mongoose'),
     bodyParser = require('body-parser');
 
 
-var db = mongoose.connect('mongodb://localhost/boozerdb');
+//var db = mongoose.connect('mongodb://localhost/boozerdb');
 var Drink = require('./models/submitDrinkModel');
 
 var app = express();
