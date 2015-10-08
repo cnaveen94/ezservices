@@ -16,14 +16,6 @@
     "description":"The cocktail glass is also commonly called a martini glass. Designs range from thin and delicate to colorful and crazy, and the correct cocktail glass will do wonders for the presentation of your drink.\n\nTypically holds 6 ounces\nUse a regular or straight stem glass for martinis and classic drinks.\nZ-stems or other fancy designs go well with colorful drinks!"
   },
   {
-    "glass_id":3,
-    "glass_name":"Coffee Mug",
-    "new_glass_name":"",
-    "glass_image_name":"unknown",
-    "glass_image_type":"png",
-    "description":"A thick mug with a handle, designed for holding hot beverages. Not considered a bar glass, but we certainly won't tell anyone if you mix up a toasty treat in your favourite caffeine implentation solution (our marketing department told us to say that)."
-  },
-  {
     "glass_id":4,
     "glass_name":"Collins glass",
     "new_glass_name":"",
@@ -35,7 +27,7 @@
     "glass_id":5,
     "glass_name":"Cordial glass",
     "new_glass_name":"",
-    "glass_image_name":"unknown",
+    "glass_image_name":"cordial-glass",
     "glass_image_type":"png",
     "description":"Cordial glasses small, stemmed glasses generally used to serve after-dinner liqueurs. Alternatively, they may be used to serve drinks at a party, reception or other gathering. The use of fine cordial glasses lends a touch of elegance to any gathering.\n\nCordial glasses are smaller than a typical wine glass, holding approximately one and a half ounces (� 45 ml) and are often (though certainly not always) made with thinner, more delicate glass.\nMakes a good presentation glass for layered drinks\""
   },
@@ -96,14 +88,6 @@
     "description":"Irish coffee glasses make for great presentation of hot drinks. If you don't have any, a regular mug will usually do. Generally made with heavy glass to withstand high temperatures.\n\nHolds about 8 oz.\nGreat for hot chocolate drinks, with whipped cream toppings. Mmmm.\nEasy to rim with sugar or chocolate."
   },
   {
-    "glass_id":13,
-    "glass_name":"Mason Jar",
-    "new_glass_name":"",
-    "glass_image_name":"unknown",
-    "glass_image_type":"png",
-    "description":"These large square containers are effective in keeping their contents sealed in an air tight environment. \nThey're designed for home canning, being used for preserves and jam amongst other things.\nTypical Size: 16 oz."
-  },
-  {
     "glass_id":14,
     "glass_name":"Old Fashioned glass",
     "new_glass_name":"",
@@ -115,7 +99,7 @@
     "glass_id":15,
     "glass_name":"Parfait glass",
     "new_glass_name":"",
-    "glass_image_name":"unknown",
+    "glass_image_name":"parfait",
     "glass_image_type":"png",
     "description":"This glass has a similar inwards curve to that of a hurricane glass, with a steeper outwards rim and larger, rounded bowl. Often used for drinks containing fruit or ice cream.\nTypical Size: 12 oz."
   },
@@ -139,7 +123,7 @@
     "glass_id":18,
     "glass_name":"Pousse Cafe glass",
     "new_glass_name":"",
-    "glass_image_name":"unknown",
+    "glass_image_name":"pousse-cafe-glass",
     "glass_image_type":"png",
     "description":"A narrow glass essentially used for pousse cafes and other layered dessert drinks. It's shape increases the ease of layering ingredients.\nSize: 6-6 ounces"
   },
@@ -147,7 +131,7 @@
     "glass_id":19,
     "glass_name":"Punch Bowl",
     "new_glass_name":"",
-    "glass_image_name":"unknown",
+    "glass_image_name":"punch-bowl",
     "glass_image_type":"png",
     "description":"A large demispherical bowl suitable for punches or large mixes.  Requires serving glasses, typically small cups.\nTypical Size: 1-5 gal."
   },
@@ -163,7 +147,7 @@
     "glass_id":21,
     "glass_name":"Sherry glass",
     "new_glass_name":"",
-    "glass_image_name":"unknown",
+    "glass_image_name":"sherry-glass",
     "glass_image_type":"png",
     "description":"Small, narrow stemmed glasses with a wider rim than a cordial glass. These smaller versions of wine glasses are usually used for drinking fortified wine\n-Typical volume: 200ml / 7.0 Oz. \n\nIdeal for liqueurs and apertifs"
   },
@@ -179,7 +163,7 @@
     "glass_id":23,
     "glass_name":"Sleeve",
     "new_glass_name":"pilsner glass",
-    "glass_image_name":"unknown",
+    "glass_image_name":"pilsner",
     "glass_image_type":"png",
     "description":"Also called a pilsner glass. Designed with a narrow base that broadens towards the top without curving to help showcase its contents and provide a nice head on beer. Sleeves are great for mixed drinks as well.\n\nHolds 10-12 ounces"
   },
@@ -203,8 +187,24 @@
     "glass_id":26,
     "glass_name":"White Wine glass",
     "new_glass_name":"",
-    "glass_image_name":"unknown",
+    "glass_image_name":"white-wine-glass",
     "glass_image_type":"png",
     "description":"A wine glass is a type of glass stemware that is used to drink and taste wine. It is generally composed of three parts: the bowl, stem, and foot. Selection of a particular wine glass for a wine style is important, as the glass shape can influence its perception.A white wine glass is more elongated in the body than a red wine glass, and curves gently inwards near the rim. A long stem is used for holding so your hand doesn't warm the contents."
+  },
+  {
+    "glass_id":27,
+    "glass_name":"Carafe Glass",
+    "new_glass_name":"",
+    "glass_image_name":"carafe-glass",
+    "glass_image_type":"png",
+    "description":"A carafe, is a container without handles used for serving wine and other drinks. Unlike the related decanter, carafes do not include stoppers. \n \n Coffee pots included in coffee makers are also referred to as carafes in American English.\n \n In France, carafes are commonly used to serve water. To order a carafe d'eau (carafe of water) is to request to be served (free) tap water rather than bottled water at a cost."
+  },
+  {
+    "glass_id":28,
+    "glass_name":"Cognac Glass",
+    "new_glass_name":"",
+    "glass_image_name":"cognac-glass",
+    "glass_image_type":"png",
+    "description":"A cognac (also called brandy snifter, snifter glass, or balloon) is a type of stemware, a short-stemmed glass whose vessel has a wide bottom and a relatively narrow top. It is mostly used to serve aged brown spirits such as bourbon, brandy, and whisky. \n \n The large surface area of the contained liquid helps evaporate it, the narrow top traps the aroma inside the glass, while the rounded bottom allows the glass to be cupped in the hand, thus warming the liquor. Most snifters will hold between 180–240 ml (6–8 oz.), but are almost always filled to only a small part of their capacity. Most snifters are designed so that when placed sideways on a level surface, they will hold just the proper amount before spilling.\n \nA variant is called a pipe glass or pipe snifter, used for port and brandy."
   }
 ]
