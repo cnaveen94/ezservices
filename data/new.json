@@ -271,5 +271,31 @@
     "contributor":" BJMar867",
     "no_of_views":"0",
     "date_added":""
-  }
+  },
+  {
+    "drink_id":57,
+    "category":1,
+    "drink_name":"Mimosa",
+    "ingredients":" Champagne: 2 1/2 oz.|Orange Juice: 2 1/2 oz.|",
+    "drink_color":" ",
+    "glass_name":"Flute glass",
+    "glass_image_url":"./images/item_carousal/flute-glass.png",
+    "instructions":" Pour chilled orange juice, and add chilled champagne.",
+    "contributor":"Mc",
+    "no_of_views":21,
+    "date_added":""
+  },
+  {
+  "drink_id":141,
+  "category":1,
+  "drink_name":"Beautiful",
+  "ingredients":" Cognac: 1 oz.|Grand Marnier: 1 oz.|",
+  "drink_color":"Brown",
+  "glass_name":"Snifter",
+  "glass_image_url":"./images/item_carousal/snifter-glasses.png",
+  "instructions":" Combine ingredients in a brandy snifter.",
+  "contributor":"Kal",
+  "no_of_views":7,
+  "date_added":""
+}
 ]
