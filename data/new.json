@@ -1,8 +1,21 @@
 [
   {
+    "drink_id":1001,
+    "category":"1",
+    "drink_name":"BASILICO",
+    "ingredients":"Citron vodka: 1½ oz.|peach liqueur: ½ oz.|apple liqueur: ¼ oz.|simple syrup: ¼ oz.|lime juice: ¼ oz.|strawberry: 1|5 basil leaves|Garnish: strawberry",
+    "drink_color":"Orange",
+    "glass_name":"Old Fashioned glass",
+    "glass_image_url":"./images/glasses/old-fashioned-glass.png",
+    "instructions":"To make simple syrup, mix equal parts hot water and sugar until sugar is dissolved. Muddle the strawberry and basil leaves in a cocktail shaker. Add remaining ingredients. Shake and serve in a glass filled with ice. Garnish with a strawberry.",
+    "contributor":"Anonymous",
+    "no_of_views":"1",
+    "date_added":"9 Oct 2015"
+  },
+  {
     "drink_id":1,
     "category":"1",
-    "drink_name":"Prod: Apple Cream Pop Martini",
+    "drink_name":"Apple Cream Pop Martini",
     "ingredients":" Triple Sec: 1/2 oz.|Sour Apple Pucker: 1 oz.|Vodka: 1 oz.|Cream: 1 oz.|Sour Mix: 3 oz.|Sprite: 1 splash|",
     "drink_color":" Multi-coloured (layered)",
     "glass_name":"Cocktail glass",
