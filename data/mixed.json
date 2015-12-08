@@ -338,19 +338,6 @@
     "date_added":""
   },
   {
-    "drink_id":90,
-    "category":4,
-    "drink_name":"Panty Hamster",
-    "ingredients":" J��_germeister: 1 part|Liqueur, melon: 1 part|Liqueur, raspberry: 1 part|Cranberry Juice: 2 parts|",
-    "drink_color":" Purple",
-    "glass_name":"Shot glass",
-    "glass_image_url":"./images/glasses/shot-glass.png",
-    "instructions":" Shake ingredients in a cocktail shaker with ice.  Strain into glass.",
-    "contributor":" This drink recipe was submitted by one of our courageous, yet humble readers, Kevin Weigel!",
-    "no_of_views":"",
-    "date_added":""
-  },
-  {
     "drink_id":91,
     "category":4,
     "drink_name":"Cucumber Mint Martini",
