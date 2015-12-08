@@ -130,19 +130,6 @@
     "date_added":""
   },
   {
-    "drink_id":12,
-    "category":"1",
-    "drink_name":"Freaky Girl",
-    "ingredients":" Amaretto: 1/2 shot|Vodka: 1 shot|Cranberry Juice: 1 part|Grenadine: 1 dash|Orange Juice: 1 part|Pineapple Juice: 1 part|",
-    "drink_color":" Multi-coloured (layered)",
-    "glass_name":"Cocktail glass",
-    "glass_image_url":"./images/glasses/cocktail-glass.png",
-    "instructions":" Add the vodka (80 proof preferable) and the amaretto& add the juices& end with a splash of grenadine. Once you've enjoyed the colored layers& stir and enjoy.",
-    "contributor":" Sharygan",
-    "no_of_views":"0",
-    "date_added":""
-  },
-  {
     "drink_id":14,
     "category":"1",
     "drink_name":"Dr. Crum",
