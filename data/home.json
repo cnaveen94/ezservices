@@ -91,19 +91,6 @@
     "date_added":""
   },
   {
-    "drink_id":8,
-    "category":1,
-    "drink_name":"Sex by the Fireplace",
-    "ingredients":" Amaretto: 1 part|Rum, spiced: 1 part|Tequila, gold: 1 part|Triple Sec: 1 part|Grenadine: 1 part|",
-    "drink_color":"Red",
-    "glass_name":"Hurricane glass",
-    "glass_image_url":"./images/item_carousal/hurricane-glass.png",
-    "instructions":" Shake ingredients in a cocktail shaker with ice.  Strain into glass.",
-    "contributor":"",
-    "no_of_views":13,
-    "date_added":""
-  },
-  {
     "drink_id":7,
     "category":1,
     "drink_name":"Manchester Cider",
@@ -118,15 +105,15 @@
   },
   {
     "drink_id":2,
-    "category":1,
-    "drink_name":"Martini Grape",
-    "ingredients":"Vodka: 1 oz.|Sour Grape Pucker: 1 oz.|Sour Island Punch Pucker: 1/2 oz.|Cream: 1 oz.|Sour Mix: 3 oz.|Sprite: 1 splash|",
-    "drink_color":"Multi-coloured (layered)",
+    "category":"1",
+    "drink_name":"Grape Cream Pop Martini",
+    "ingredients":" Vodka: 1 oz.|Sour Grape Pucker: 1 oz.|Sour Island Punch Pucker: 1/2 oz.|Cream: 1 oz.|Sour Mix: 3 oz.|Sprite: 1 splash|",
+    "drink_color":" Multi-coloured (layered)",
     "glass_name":"Cocktail glass",
-    "glass_image_url":"./images/item_carousal/cocktail-glass.png",
+    "glass_image_url":"./images/glasses/cocktail-glass.png",
     "instructions":" Shake ingredients in a cocktail shaker with ice excluding the heavy cream.  Strain into a chilled cocktail glass. Layer heavy cream on top.",
-    "contributor":"Maria",
-    "no_of_views":33,
+    "contributor":" DamienFilth",
+    "no_of_views":"0",
     "date_added":""
   },
   {

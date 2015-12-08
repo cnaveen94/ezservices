@@ -91,19 +91,6 @@
     "date_added":""
   },
   {
-    "drink_id":8,
-    "category":"1",
-    "drink_name":"Sex by the Fireplace",
-    "ingredients":" Amaretto: 1 part|Rum, spiced: 1 part|Tequila, gold: 1 part|Triple Sec: 1 part|Grenadine: 1 part|",
-    "drink_color":" Red",
-    "glass_name":"Hurricane glass",
-    "glass_image_url":"./images/glasses/hurricane-glass.png",
-    "instructions":" Shake ingredients in a cocktail shaker with ice.  Strain into glass.",
-    "contributor":"Jeff Stowers!",
-    "no_of_views":"0",
-    "date_added":""
-  },
-  {
     "drink_id":9,
     "category":"1",
     "drink_name":"Clear Bomber",

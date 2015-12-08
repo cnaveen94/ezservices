@@ -1,18 +1,5 @@
 [
   {
-    "drink_id":103,
-    "category":3,
-    "drink_name":"Sex On The Beach",
-    "ingredients":" Schnapps, peach: 2/3 oz.|Vodka: 1 1/3 oz.|Cranberry Juice: 1 1/3 oz.|Orange Juice: 1 1/3 oz.|",
-    "drink_color":" ",
-    "glass_name":"Highball glass",
-    "glass_image_url":"./images/glasses/highball-glass.png",
-    "instructions":" Combine ingredients in a cocktail shaker with ice.  Shake and strain into a highball glass filled with ice.",
-    "contributor":" ",
-    "no_of_views":"",
-    "date_added":""
-  },
-  {
     "drink_id":104,
     "category":3,
     "drink_name":"Kamikaze",
@@ -113,19 +100,6 @@
     "glass_image_url":"./images/glasses/collins-glass.png",
     "instructions":" Pour everything into a collins glass, splashing cola on tthe top, and stir gently.  Garnish with a lemon spiral and a straw.",
     "contributor":" ",
-    "no_of_views":"",
-    "date_added":""
-  },
-  {
-    "drink_id":112,
-    "category":3,
-    "drink_name":"Sex With Jennifer",
-    "ingredients":" Rum, coconut: 1 1/2 oz.|Triple Sec: 1 oz.|Vodka: 1 1/2 oz.|Grenadine: 1 dash|Pineapple Juice: Fill with|",
-    "drink_color":" ",
-    "glass_name":"Collins glass",
-    "glass_image_url":"./images/glasses/collins-glass.png",
-    "instructions":" Mix in glass, drink fast.",
-    "contributor":" This drink recipe was submitted by one of our magnificient readers, starr!",
     "no_of_views":"",
     "date_added":""
   },

@@ -78,19 +78,6 @@
     "date_added":""
   },
   {
-    "drink_id":8,
-    "category":"1",
-    "drink_name":"Sex by the Fireplace",
-    "ingredients":" Amaretto: 1 part|Rum, spiced: 1 part|Tequila, gold: 1 part|Triple Sec: 1 part|Grenadine: 1 part|",
-    "drink_color":" Red",
-    "glass_name":"Hurricane glass",
-    "glass_image_url":"./images/glasses/hurricane-glass.png",
-    "instructions":" Shake ingredients in a cocktail shaker with ice.  Strain into glass.",
-    "contributor":"Jeff Stowers!",
-    "no_of_views":"0",
-    "date_added":""
-  },
-  {
     "drink_id":9,
     "category":"1",
     "drink_name":"Clear Bomber",
@@ -507,19 +494,6 @@
     "date_added":""
   },
   {
-    "drink_id":103,
-    "category":3,
-    "drink_name":"Sex On The Beach",
-    "ingredients":" Schnapps, peach: 2/3 oz.|Vodka: 1 1/3 oz.|Cranberry Juice: 1 1/3 oz.|Orange Juice: 1 1/3 oz.|",
-    "drink_color":" ",
-    "glass_name":"Highball glass",
-    "glass_image_url":"./images/glasses/highball-glass.png",
-    "instructions":" Combine ingredients in a cocktail shaker with ice.  Shake and strain into a highball glass filled with ice.",
-    "contributor":" ",
-    "no_of_views":"",
-    "date_added":""
-  },
-  {
     "drink_id":104,
     "category":3,
     "drink_name":"Kamikaze",
@@ -620,19 +594,6 @@
     "glass_image_url":"./images/glasses/collins-glass.png",
     "instructions":" Pour everything into a collins glass, splashing cola on tthe top, and stir gently.  Garnish with a lemon spiral and a straw.",
     "contributor":" ",
-    "no_of_views":"",
-    "date_added":""
-  },
-  {
-    "drink_id":112,
-    "category":3,
-    "drink_name":"Sex With Jennifer",
-    "ingredients":" Rum, coconut: 1 1/2 oz.|Triple Sec: 1 oz.|Vodka: 1 1/2 oz.|Grenadine: 1 dash|Pineapple Juice: Fill with|",
-    "drink_color":" ",
-    "glass_name":"Collins glass",
-    "glass_image_url":"./images/glasses/collins-glass.png",
-    "instructions":" Mix in glass, drink fast.",
-    "contributor":" This drink recipe was submitted by one of our magnificient readers, starr!",
     "no_of_views":"",
     "date_added":""
   },
@@ -1404,19 +1365,6 @@
       "date_added":""
     },
     {
-      "drink_id":127,
-      "category":4,
-      "drink_name":"Sex On The Beach",
-      "ingredients":" Schnapps, peach: 2/3 oz.|Vodka: 1 1/3 oz.|Cranberry Juice: 1 1/3 oz.|Orange Juice: 1 1/3 oz.|",
-      "drink_color":" ",
-      "glass_name":"Highball glass",
-      "glass_image_url":"./images/glasses/highball-glass.png",
-      "instructions":" Combine ingredients in a cocktail shaker with ice.  Shake and strain into a highball glass filled with ice.",
-      "contributor":" ",
-      "no_of_views":"",
-      "date_added":""
-    },
-    {
       "drink_id":128,
       "category":4,
       "drink_name":"Toasted Almond",
@@ -1465,19 +1413,6 @@
       "glass_image_url":"./images/glasses/highball-glass.png",
       "instructions":" Shake ingredients in a cocktail shaker with ice.  Strain into glass.",
       "contributor":" This drink recipe was submitted by one of our courageous, yet humble readers, Mike!",
-      "no_of_views":"",
-      "date_added":""
-    },
-    {
-      "drink_id":132,
-      "category":4,
-      "drink_name":"Sex With Jennifer",
-      "ingredients":" Rum, coconut: 1 1/2 oz.|Triple Sec: 1 oz.|Vodka: 1 1/2 oz.|Grenadine: 1 dash|Pineapple Juice: Fill with|",
-      "drink_color":" ",
-      "glass_name":"Collins glass",
-      "glass_image_url":"./images/glasses/collins-glass.png",
-      "instructions":" Mix in glass, drink fast.",
-      "contributor":" This drink recipe was submitted by one of our damn fine readers, starr!",
       "no_of_views":"",
       "date_added":""
     },
@@ -1638,19 +1573,6 @@
       "date_added":""
     },
     {
-      "drink_id":146,
-      "category":4,
-      "drink_name":"Sex On The Beach #3",
-      "ingredients":" Rum, coconut: 1 1/2 oz.|Schnapps, peach: 1 1/2 oz.|Grenadine: 1 splash|Orange Juice: Fill with|Cherries/Maraschinos: 1 piece|",
-      "drink_color":" Pink",
-      "glass_name":"Highball glass",
-      "glass_image_url":"./images/glasses/highball-glass.png",
-      "instructions":" Combine coconut rum, peach schnapps, orange juice and grenadine in cocktail shaker with ice. Shake. Pour into tall glass with ice. Add cherry.",
-      "contributor":" This drink recipe was submitted by one of our brilliant readers, Nicole!",
-      "no_of_views":"",
-      "date_added":""
-    },
-    {
       "drink_id":147,
       "category":4,
       "drink_name":"Death Of A Virgin",
@@ -1660,32 +1582,6 @@
       "glass_image_url":"./images/glasses/irish-coffee-mug.png",
       "instructions":" Add peach schnapps, vodka and lime juice to an irish coffee mug.  Fill half way with orange juice and the rest with 7-up.  Stir well.",
       "contributor":" ",
-      "no_of_views":"",
-      "date_added":""
-    },
-    {
-      "drink_id":148,
-      "category":4,
-      "drink_name":"Exstatic Orgasm",
-      "ingredients":" Irish Cream: 1 shot|Kahlua: 1 shot|Vodka: 1 shot|Milk: 1 Cup|Ice: 1 handful (1 handful)|",
-      "drink_color":" ",
-      "glass_name":"Old Fashioned glass",
-      "glass_image_url":"./images/glasses/old-fashioned-glass.png",
-      "instructions":" In a blender add 1 shot each of the vodka, Kahlua and Irish Cream then add a handful of ice and blend.  Pour into glass, add milk and drink with straw.",
-      "contributor":" This drink recipe was submitted by one of our extremely intelligent readers, Larith DeJesus!",
-      "no_of_views":"",
-      "date_added":""
-    },
-    {
-      "drink_id":149,
-      "category":4,
-      "drink_name":"Sex With The Bartender",
-      "ingredients":" Rum, light: 1 1/2 oz.|Schnapps, strawberry: 1 1/2 oz.|Cranberry Juice: 1 splash|Orange Juice: Fill with|",
-      "drink_color":" ",
-      "glass_name":"Collins glass",
-      "glass_image_url":"./images/glasses/collins-glass.png",
-      "instructions":" Mix everything together in glass with ice.",
-      "contributor":" This drink recipe was submitted by one of our brilliant readers, Jennifer!",
       "no_of_views":"",
       "date_added":""
     },
@@ -1737,19 +1633,6 @@
       "glass_name":"Shot glass",
       "glass_image_url":"./images/glasses/shot-glass.png",
       "instructions":" Layer Kahlua, Bailey's and then Grand Marnier in a shot glass. Serve with a stirrer.",
-      "contributor":" ",
-      "no_of_views":"",
-      "date_added":""
-    },
-    {
-      "drink_id":154,
-      "category":4,
-      "drink_name":"Wild Sex",
-      "ingredients":" Rum, coconut: 1 oz.|Rum, overproof/151 proof: 1/2 oz.|Schnapps, peach: 1/2 oz.|Cranberry Juice: 1 oz.|Grenadine: 1 splash|Orange Juice: 1 oz.|Pineapple Juice: 1 oz.|",
-      "drink_color":" ",
-      "glass_name":"Hurricane glass",
-      "glass_image_url":"./images/glasses/hurricane-glass.png",
-      "instructions":" Shake everything (except grenadine) with ice.  Pour into a hurricane glass with some ice, splash a bit of grenadine over the ice.",
       "contributor":" ",
       "no_of_views":"",
       "date_added":""
